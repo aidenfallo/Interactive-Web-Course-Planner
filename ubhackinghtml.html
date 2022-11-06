@@ -1,0 +1,50 @@
+<html>
+<head>
+  <script src="ajax.js"></script>
+  <script src="script.js"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1 style="color: Black; text-align: center">Course Planner :D</h1>
+    <h4 style="color: Black; text-align: center">Made by: Aiden, Blake & Tien</h4>
+  <table class="center" id="courses"><td>
+  <table class="center">
+    <tr>
+      <th>What type of degree do you want?</th>
+      <th>How about a double major?</th>
+      <th></th>
+    </tr>
+    <tr>
+      <td>
+        <select Name="Name_of_list_box" Size="Number_of_options" id="degreeName1"> 
+        <option value="null" selected disabled hidden>Select a Degree</option>
+        <option id="null"> Nothing </option>  
+        <option id="CSE_BA"> Computer Science B.A </option>  
+        <option id="CSE_BS"> Computer Science B.S </option>  
+        <option id="MTH_BA"> Mathematics B.A - General Study in Mathematics Concentration </option>  
+        <option id="MTH_BS"> Mathematics B.S - General Study in Mathematics Concentration </option>
+        <option id="PHY_BA"> Physics B.A </option>  
+        <option id="PHY_BS"> Physics B.S </option> 
+    </select>
+      </td>
+      <td>
+        <select Name="Name_of_list_box" Size="Number_of_options" id="degreeName2"> 
+        <option value="null" selected disabled hidden>Select a Degree</option>
+        <option id="null"> Nothing </option>  
+        <option id="CSE_BA"> Computer Science B.A </option>  
+        <option id="CSE_BS"> Computer Science B.S </option>  
+        <option id="MTH_BA"> Mathematics B.A - General Study in Mathematics Concentration </option>  
+        <option id="MTH_BS"> Mathematics B.S - General Study in Mathematics Concentration </option>
+        <option id="PHY_BA"> Physics B.A </option>  
+        <option id="PHY_BS"> Physics B.S </option> 
+    </select>
+      </td>
+      <td><button onclick="copyInput();">Select</button></td>
+    </tr>
+  </td></table>
+  </table>
+  <div id="courseTable1"></div>
+  <div id="courseTable2"></div>
+  <div id="shared"></div>
+  </body>
+</html>

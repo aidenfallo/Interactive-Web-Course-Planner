@@ -1,0 +1,23 @@
+Course key,Course num,Course type,Course name,Credits,Period
+MTH,141,LR,College Calculus I,4,"Spring,Summer,Fall,Winter"
+MTH,142,LR,College Calculus 2,4,"Spring,Summer,Fall,Winter"
+PHY,107,LR,General Physics I,4,"Spring,Summer,Fall,Winter"
+PHY,108,LR,General Physics II,4,"Spring,Summer,Fall,Winter"
+CHE,101,LR,General Chemistry,4,"Spring,Summer,Fall"
+CHE,102,LR,General Chemistry,4,"Spring,Summer,Fall"
+MTH,241,LR,College Calculus 3,4,"Spring,Summer,Fall,Winter"
+MTH,306,LR,Introduction to Differential Equations,4,"Spring,Summer,Fall"
+MTH,417,LR,Survey of Multivariable Calculus,4,Fall
+MTH,418,LR,Survey of Partial Differential Equations,4,"Spring,Fall"
+PHY,207,LR,General Physics III,4,Spring
+PHY,208,LEC,General Physics IV,3,Fall
+PHY,257,LAB,General Physics III Lab,1,Spring
+PHY,301,LEC,Intermediate Mechanics I,3,Fall
+PHY,302,LEC,Intermediate Mechanics II,3,Spring
+PHY,307,LAB,Modern Physics Lab,2,Spring
+PHY,401,LEC,Quantum Mechanics I - Fundementals,3,Fall
+PHY,402,LEC,Quantum Mechanics II - Applications,3,Spring
+PHY,403,LEC,Electricity and Magnetism I,3,Fall
+PHY,404,LEC,Electricity and Magnetism II,3,Spring
+PHY,405,LEC,Thermal and Statistical Physics I,3,Fall
+PHY,407,LAB,Advanced Labratory,3,Fall

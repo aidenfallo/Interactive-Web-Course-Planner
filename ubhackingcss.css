@@ -1,0 +1,28 @@
+* {
+  font-family: "verdana";
+}
+body {
+  background-color: rgb(250,235,215);
+}
+table {
+  background-color: white;
+  padding: 5px;
+  text-align: left;
+}
+
+table.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#courses {
+  background-color: #62BCFF;
+  border: 3px solid black;
+  padding: 5px;
+}
+
+td, th {
+  background-color: white;
+  padding: 10px 25px;
+  text-align: left;
+}

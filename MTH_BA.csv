@@ -1,0 +1,12 @@
+Course key,Course num,Course type,Course name,Credits,Period
+MTH,141,LR,College Calculus I,4,"Spring,Summer,Fall,Winter"
+MTH,142,LR,College Calculus 2,4,"Spring,Summer,Fall,Winter"
+MTH,241,LR,College Calculus 3,4,"Spring,Summer,Fall,Winter"
+MTH,311,LR,Introduction to Higher Mathematics,4,"Spring,Fall"
+MTH,306,LR,Introduction to Differential Equations,4,"Spring,Summer,Fall"
+MTH,309,LR,Introductory Linear Algebra,4,"Spring,Summer,Fall"
+MTH,337,LEC,Introduction to Scientific and Mathematical Computing,4,"Spring,Fall"
+MTH,419,LR,Introduction to Abstract Algebra,4,"Spring,Fall"
+MTH,420,LR,Abstract Linear Algebra,4,Spring
+MTH,431,LR,Introduction to Real Variables I,4,"Spring,Fall"
+MTH,432,LR,Introduction to Real Variables II,4,Spring

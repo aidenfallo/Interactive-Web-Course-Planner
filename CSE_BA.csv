@@ -1,0 +1,9 @@
+Course key,Course num,Course type,Course name,Credits,Period
+CSE,115,LLR,Introduction to Computer Science I,4,"Spring,Summer,Fall"
+CSE,116,LLB,Introduction to Computer Science II,4,"Spring,Summer,Fall"
+CSE,191,LR,Introduction to Discrete Structures,4,"Spring,Summer,Fall"
+CSE,199,SR,UB Seminar,3,Fall
+CSE,220,LLB,Systems Programming,4,"Spring,Fall"
+CSE,250,LR,Data Structures,4,"Spring,Summer,Fall"
+CSE,341,LR,Computer Organization,4,"Spring,Summer,Fall"
+EAS,360,LEC,STEM Communications,3,"Spring,Summer,Fall"
